@@ -1,0 +1,9 @@
+entity Productos { 
+ 	nombre String
+	descripcion String
+	precio BigDecimal
+	cantidad Integer
+    
+    
+    
+    }
